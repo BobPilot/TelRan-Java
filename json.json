@@ -1,0 +1,22 @@
+{
+	"results": [
+		{
+			"tagging_id": null,
+			"image": "https://img1.liveinternet.ru/images/attach/c/10/109/434/109434863_x_8fd0a9db.jpg",
+			"tags": [
+				{
+					"confidence": 41.0871391296387,
+					"tag": "мультфильм"
+				},
+				{
+					"confidence": 35.259952545166,
+					"tag": "Рисование"
+				},
+				{
+					"confidence": 32.2747840881348,
+					"tag": "Искусство"
+				}
+			]
+		}
+	]
+}
